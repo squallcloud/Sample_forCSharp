@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28010.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample_IO", "Sample_IO\Sample_IO.csproj", "{1033C592-D625-4F48-AE90-0B48FE45B079}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpDXTest", "SharpDXTest\SharpDXTest.csproj", "{6340FF2E-01AE-4E94-927E-791D1A275549}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SharpDXTest_D3D12", "SharpDXTest_D3D12\SharpDXTest_D3D12.csproj", "{1DFD58C4-35F0-40C3-967B-4C602CF57363}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{1033C592-D625-4F48-AE90-0B48FE45B079}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1033C592-D625-4F48-AE90-0B48FE45B079}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1033C592-D625-4F48-AE90-0B48FE45B079}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6340FF2E-01AE-4E94-927E-791D1A275549}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6340FF2E-01AE-4E94-927E-791D1A275549}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6340FF2E-01AE-4E94-927E-791D1A275549}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6340FF2E-01AE-4E94-927E-791D1A275549}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DFD58C4-35F0-40C3-967B-4C602CF57363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DFD58C4-35F0-40C3-967B-4C602CF57363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DFD58C4-35F0-40C3-967B-4C602CF57363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DFD58C4-35F0-40C3-967B-4C602CF57363}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
